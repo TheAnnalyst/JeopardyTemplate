@@ -1,3 +1,6 @@
+.gradle/taskHistory/*
+.gradle/buildOutputCleanup/*
+.gradle/fileHashes/*
 Java.gitignore
 *.bin
 *.lock
