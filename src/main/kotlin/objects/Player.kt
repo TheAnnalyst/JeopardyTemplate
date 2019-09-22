@@ -1,7 +1,7 @@
 package objects;
 
-public class Player(argName: String){
-    var name = ""
+public class Player(argName: String?){
+    var name :String? = ""
     var score = 0
     var qsAnswered = 0
     // Put your code for the Player() object here
